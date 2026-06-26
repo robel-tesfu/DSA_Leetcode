@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/robel-tesfu/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/robel-tesfu/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/robel-tesfu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/robel-tesfu/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
