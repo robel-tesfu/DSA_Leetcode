@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/robel-tesfu/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/robel-tesfu/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/robel-tesfu/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/robel-tesfu/DSA/tree/master/0062-unique-paths) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/robel-tesfu/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/robel-tesfu/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/robel-tesfu/DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/robel-tesfu/DSA/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/robel-tesfu/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/robel-tesfu/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/robel-tesfu/DSA/tree/master/0055-jump-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/robel-tesfu/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
