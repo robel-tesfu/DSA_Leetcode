@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/robel-tesfu/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/robel-tesfu/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/robel-tesfu/DSA/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/robel-tesfu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/robel-tesfu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/robel-tesfu/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/robel-tesfu/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/robel-tesfu/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/robel-tesfu/DSA/tree/master/0073-set-matrix-zeroes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/robel-tesfu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/robel-tesfu/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/robel-tesfu/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/robel-tesfu/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/robel-tesfu/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
