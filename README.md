@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/robel-tesfu/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/robel-tesfu/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/robel-tesfu/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/robel-tesfu/DSA/tree/master/0076-minimum-window-substring) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/robel-tesfu/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/robel-tesfu/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/robel-tesfu/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/robel-tesfu/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/robel-tesfu/DSA/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/robel-tesfu/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/robel-tesfu/DSA/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
